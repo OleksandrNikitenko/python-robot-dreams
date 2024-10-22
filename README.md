@@ -1,2 +1,3 @@
-# python-robot-dreams
-Robot Dreams contest
+# ~~Shit~~ Random number generator
+A small script to generate a pseudo-random number in the 1-100 range.
+
